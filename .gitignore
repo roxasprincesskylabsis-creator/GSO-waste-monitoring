@@ -23,4 +23,6 @@ _test_report.*
 revision.txt
 /.claude/
 db.sqlite3
+.env
 login_credentials.txt
+staticfiles/
