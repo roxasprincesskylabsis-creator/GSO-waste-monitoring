@@ -22,3 +22,5 @@ _legend_crop.png
 _test_report.*
 revision.txt
 /.claude/
+db.sqlite3
+login_credentials.txt
